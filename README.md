@@ -1,4 +1,4 @@
-#Javascript Walkthrough
+# Javascript Walkthrough
 
 Javascript accepts both single and double quotes. Js can change HTML sytles, show or hide HTML elements, 
 it can change HTML Contents.
@@ -9,7 +9,7 @@ it can change HTML Contents.
  document.write() [Write directly into the webpage]
 inner.html        [changes content of html elements]
 
-## Topics I covered
+## 🧠Topics I covered
 Varaiables, datatypes, and operators
 ### Javascript has 8 data types 
 1.String
