@@ -10,7 +10,11 @@ it can change HTML Contents.
 inner.html        [changes content of html elements]
 
 ## 🧠Topics I covered
-Varaiables, datatypes, and operators
+- **Control Flow**: If/else, switch statements
+- **Loops**: For, while, do-while
+- **Functions**: Declarations, expressions, arrow functions
+- **Arrays and Objects**: Iteration, manipulation, methods
+- ***Varaiables, datatypes, and operators
 ### Javascript has 8 data types 
 1.String
 2.Number
@@ -21,9 +25,4 @@ Varaiables, datatypes, and operators
 7.Symbol
 8.Object
 
-
-- **Control Flow**: If/else, switch statements
-- **Loops**: For, while, do-while
-- **Functions**: Declarations, expressions, arrow functions
-- **Arrays and Objects**: Iteration, manipulation, methods
 
