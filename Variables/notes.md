@@ -22,6 +22,27 @@ Examples:
   var name = Roshni;
   console.var(name);      // Output: Roshni
 
+  ## Data types
+   In data types i learned about primitive types
+Number – e.g. 5, 3.14
+String – e.g. "hello"
+Boolean – e.g. true or false
+undefined – variable declared but not assigned
+null – intentionally empty
+BigInt – large integers
+Symbol – unique identifiers
+
+## Reference types
+Here I leanrned about array , object, and function.
+
+let greet = function() {
+  console.log("Hi");
+};
+
+We are using a function expression and assigning it to a variab;e named greet.
+
+
+
 
 
 

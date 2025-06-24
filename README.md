@@ -10,19 +10,19 @@ it can change HTML Contents.
 inner.html        [changes content of html elements] <br>
 
 ## 🧠Topics I covered
+-**JavaScript Basics**: Variables, data types, operators
 - **Control Flow**: If/else, switch statements
 - **Loops**: For, while, do-while
 - **Functions**: Declarations, expressions, arrow functions
 - **Arrays and Objects**: Iteration, manipulation, methods
-- Varaiables, datatypes, and operators
-### Javascript has 8 data types 
-1.String
-2.Number
-3.Bigint
-4.Boolean
-5.Undefined
-6.Null
-7.Symbol
-8.Object
+
+---
+## 🧩Projects
+Made First Game (Tic Tac Toe)
+
+## 🎯Goals
+- Understand the foundation of Javascript
+- Practice Frontend frameworks
+- Make projects and build up understanding of Javascript
 
 
