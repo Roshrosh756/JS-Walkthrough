@@ -27,5 +27,21 @@ console.log("Hello" + " World"); // Output : Hello World
 console.log("Age: " + 25);       //  Output : Age: 25
 
 
+//Unary Operators
+
+let apple = 6;
+let ball = 2;
+ console.log ("apple = ", apple,  "& ball = " , ball);
+
+ console.log (" apple-- = " , apple--);
+
+ console.log ("apple = ", apple);
+
+
+
+ // a++ says, first old value will be used and 
+ // then second value that is with increment will be displayed.
+ // --a says, first the value will be minus - 
+ // then in the second line same minus vako number print huncha
 
 

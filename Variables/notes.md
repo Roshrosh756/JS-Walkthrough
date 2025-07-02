@@ -43,6 +43,22 @@ We are using a function expression and assigning it to a variab;e named greet.
 
 
 
+# Variables Rules
+
+Variables names are case sesitive i.e. "a" and "A" are different.
+Only letter, digits, underscore (_) , or $ are allowed. [Not even space]
+Only letters, underscore (_), or $ should be 1st character.
+Reserved words cannot be variable names
+
+for eg: let var = 9; // var is wrong , it's a error
+
+        let num == 9; // num is correct
+        
+
+
+
+
+
 
 
 
