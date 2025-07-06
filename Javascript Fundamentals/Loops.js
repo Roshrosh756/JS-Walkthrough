@@ -17,3 +17,11 @@ for (let i = 1 ; i<=10; i++) {
     
 }
 console.log ("sum is", sum);
+
+//print  1 to 50 sum
+
+let s = 0;
+for (let i = 1 ; i<= 50; i++) {
+    s = s + i;
+}
+console.log ("Sum of 1 to 50 is", s);
