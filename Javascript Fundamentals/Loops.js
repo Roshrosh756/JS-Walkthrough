@@ -33,3 +33,13 @@ while (i<=10); {
     i++;
 }
 
+//do while loop
+let a  = 1;
+do {
+    console.log ("a =", a);
+    a ++;
+
+} while (a <= 10);
+
+
+
