@@ -1,6 +1,6 @@
 # Javascript Walkthrough
 
-Still learning
+
 Javascript accepts both single and double quotes. Js can change HTML sytles, show or hide HTML elements, 
 it can change HTML Contents.
 ### In HTML, JavaScript code is inserted between <script> and </script> tags.
