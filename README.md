@@ -26,4 +26,6 @@ Made First Game (Tic Tac Toe)
 - Practice Frontend frameworks
 - Make projects and build up understanding of Javascript
 
+Taking a break for a while
+
 
